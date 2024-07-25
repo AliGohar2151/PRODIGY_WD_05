@@ -1,5 +1,5 @@
 # Weather App 🌞
-================
+
 A simple weather app built with HTML, CSS, and JavaScript.
 
 ## Features 🎉
@@ -21,8 +21,10 @@ A simple weather app built with HTML, CSS, and JavaScript.
 * A modern web browser
 
 ### Installation
+Clone the repositry:
+```bash
 git clone https://github.com/AliGohar2151/PRODIGY_WD_05.git
-
+```
 ### Usage
 1. Open the `index.html` file in a web browser to view the app.
 2. Search for a city by typing its name in the search bar and clicking the search button.
@@ -34,7 +36,9 @@ This app uses the OpenWeatherMap API to fetch weather data. You will need to obt
 ### How to get an API key
 1. Sign up for a free API key on the OpenWeatherMap website.
 2. Replace the placeholder `apiKey` in `script.js` with your API key.
+```js
 const apiKey = "YOUR_API_KEY";
+```
 
 ## Project Structure 🗂️
 -------------------
@@ -49,15 +53,20 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ### How to contribute
 1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeatureName`
-3. Make your changes.
-4. Commit your changes: `git commit -m 'Add some feature'`
-5. Push to the branch: `git push origin feature/YourFeatureName`
-6. Open a pull request.
-
-## License 📝
--------
-This project is licensed under the MIT License. See the LICENSE file for details.
+2. Create a new branch:
+```bash
+git checkout -b feature/YourFeatureName
+```
+4. Make your changes.
+5. Commit your changes:
+```bash
+git commit -m 'Add some feature'
+```
+7. Push to the branch:
+```bash
+git push origin feature/YourFeatureName
+```
+9. Open a pull request.
 
 ## Acknowledgments 🙏
 ---------------
