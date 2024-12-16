@@ -2,6 +2,8 @@
 
 A simple weather app built with HTML, CSS, and JavaScript.
 
+__Preview:__ https://aligohar2151.github.io/PRODIGY_WD_05/
+
 ## Features 🎉
 ------------
 * Search for weather by city name
